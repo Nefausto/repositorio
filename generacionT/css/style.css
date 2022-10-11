@@ -1,0 +1,36 @@
+.navega ul{
+    display:flex;
+    justify-content:flex-end;
+    list-style: none;
+}
+.navega ul li {
+    margin-right: 10px;
+}
+body {
+    background-color:rgb(255, 255, 255)
+}
+.frente {
+    text-align: center;
+}
+.barra {
+        text-align: end;
+}
+.copyri {
+    text-align: center;
+}
+a {
+    text-decoration:none;
+    color:black;
+}
+.primero {
+    color:rgb(0, 0, 94);
+}
+.segundo {
+    color:#ac8f81;
+}
+.tercero {
+    color:rgb(153, 15, 15);
+}
+.mnazi {
+    height: 900px;width:1903px;
+}
